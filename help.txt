@@ -1,0 +1,6 @@
+echo "# bamdon" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/stone1803/bamdon.git
+git push -u origin master
